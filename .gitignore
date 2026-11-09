@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Local Claude Code settings
+.claude/
+
+# Personal JobTrack backups and exports, in case they're saved here
+jobtrack-backup-*.json
+jobtrack-*.csv
